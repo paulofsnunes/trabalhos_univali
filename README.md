@@ -1,1 +1,1 @@
-#### Este repositório destina-se exclusivamente aos trabalhos da Univali - Universidade do Vale do Itajaí.
+#### Este repositório destina-se exclusivamente para os meus trabalhos desenvolvidos em aulas da Univali - Universidade do Vale do Itajaí.
