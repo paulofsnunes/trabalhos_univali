@@ -1,0 +1,10 @@
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\LARISSA\Desktop\Univali\Primeiro semestre\Primeiro trimestre\Programming and data persistence\Aula 2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
